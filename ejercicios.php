@@ -21,7 +21,7 @@
                         $informacion[$key] = 0;
                         $this->W = $informacion;
                         break;
-
+ 
                     case $this->D:
                         $informacion[$key] = 0;
                         $this->D = $informacion;
