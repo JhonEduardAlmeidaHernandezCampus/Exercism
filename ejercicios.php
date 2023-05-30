@@ -5,7 +5,7 @@
         public $MP = [];
         public $W = [];
         public $D = [];
-        public $L = [];
+        public $L = []; 
         public $P = [];
 
         public function __construct($score){
